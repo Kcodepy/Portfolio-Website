@@ -4,7 +4,7 @@ html{
 }
 
 .site-header{
-    background-image: url(/Portfolio/content/placeholder-ferrari.jpg);
+    background-image: url(/content/placeholder-ferrari.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
